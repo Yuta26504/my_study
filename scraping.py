@@ -23,7 +23,7 @@ driver = webdriver.Chrome()
 ua = UserAgent()
 useragent = ua.random
 
-#-------------------------------------------------------
+#1-------------------------------------------------------
 def get_urls(url):
     
     urls = []
